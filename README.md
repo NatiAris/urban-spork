@@ -11,5 +11,5 @@ Some of them require repo to stay open, and this is the only reason you're able 
 The code in this repo is junk. Intendedly.
 
 
-[travis]: https://travis-ci.org/natiaris/urban-spork
-[img:travis]: https://api.travis-ci.org/natiaris/urban-spork.svg
+[travis]: https://travis-ci.org/NatiAris/urban-spork
+[img:travis]: https://api.travis-ci.org/NatiAris/urban-spork.svg
